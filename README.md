@@ -7,3 +7,6 @@
 # Final exam
 * [Final exam python](https://github.com/veravdbroek/assignments/blob/master/Final_Exam_P.ipynb)
 * [Final exam R](https://github.com/veravdbroek/assignments/blob/master/Final_Exam_R.ipynb)
+
+# Practise
+*[Practise exam](
