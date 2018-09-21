@@ -9,4 +9,4 @@
 * [Final exam R](https://github.com/veravdbroek/assignments/blob/master/Final_Exam_R.ipynb)
 
 # Practise
-*[Practise exam](
+*[Practise exam](https://github.com/veravdbroek/assignments/blob/master/exam_1_student%20(1)-Copy1-checkpoint.ipynb)
